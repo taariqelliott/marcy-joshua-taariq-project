@@ -18,6 +18,7 @@
 		"@sveltejs/vite-plugin-svelte": "^6.2.4",
 		"@tailwindcss/vite": "^4.1.18",
 		"clsx": "^2.1.1",
+		"i": "^0.3.7",
 		"p5": "^2.2.2",
 		"svelte": "^5.51.0",
 		"svelte-check": "^4.4.2",
